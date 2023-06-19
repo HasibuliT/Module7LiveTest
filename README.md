@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/HasibuliT/Module7LiveTest/assets/66546794/1a796894-c30b-48b3-bc33-9f02cb19136a" width="400" height="720"/>
+  <img src="https://github.com/HasibuliT/Module7LiveTest/assets/66546794/1a796894-c30b-48b3-bc33-9f02cb19136a" width="400" height="720"/>
 </p>
