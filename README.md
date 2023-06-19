@@ -1,16 +1,5 @@
-# module7_live_test
+# Module7 live Test
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230619_235633](https://github.com/HasibuliT/Module7LiveTest/assets/66546794/1a796894-c30b-48b3-bc33-9f02cb19136a)
+![Screenshot_20230619_235625](https://github.com/HasibuliT/Module7LiveTest/assets/66546794/de11e584-f974-42d2-a4fa-9119948e5ccc)
+![Screenshot_20230619_235616](https://github.com/HasibuliT/Module7LiveTest/assets/66546794/fa683713-6e07-4298-928a-d946e885b947)
